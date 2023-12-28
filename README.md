@@ -16,6 +16,7 @@ This repository comprises leaderboards, dataset and paper lists of Video-Languag
         - [Shared Transformer](#shared-transformer)
         - [Stack Transformer](#stack-transformer)
         - [Dual Transformer](#dual-transformer)
+        - [LLM-augmented](#llm-augmented)
     - [Model training perspective](#model-training-perspective)
         - [Pre-training](#pre-training)
         - [Fine-tuning](#fine-tuning)
