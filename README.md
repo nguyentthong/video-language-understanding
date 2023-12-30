@@ -78,6 +78,7 @@ This repository comprises leaderboards, dataset and paper lists of Video-Languag
 | [[ClipBERT-CVPR2021]](https://arxiv.org/abs/2102.06183)    |     Shared TF    |   CLIP-text  |     BT     |    37.4    |     /    |
 | [[VGT-ECCV2022]](https://arxiv.org/abs/2207.05342)         |      Dual TF     |  Faster-RCNN |     BT     |    39.7    |     /    |
 | [[CoVGT-TPAMI2023]](https://arxiv.org/abs/2302.13668)       |      Dual TF     |  Faster-RCNN |     BT     |    35.6    |   36.1   |
+| [[Video-ChatGPT-arXiv2023]](https://arxiv.org/abs/2306.05424)   |   LLM-Augmented  |     ViT    |   Vicuna   |    49.3    |   64.9   |
 | [[LLaMA-Vid-arXiv2023]](https://arxiv.org/abs/2311.17043)   |   LLM-Augmented  |     EVA-G    |   Vicuna   |    58.9    |   70.0   |
 ****
 
