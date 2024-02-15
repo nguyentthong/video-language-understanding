@@ -39,7 +39,7 @@ This repository comprises leaderboards, dataset and paper lists of Video-Languag
 |  [[SA-G+SA-FC7]](https://arxiv.org/abs/1609.08124)  |         Pre-TF         |        VGG        |     GloVe     |   3.1   |   9.0   |   13.4   |
 |     [[CT-SAN-CVPR2017]](https://arxiv.org/abs/1610.02947)    |         Pre-TF         |         RN        | word2vec-LSTM |   4.4   |   16.6  |   22.3   |
 |   [[All-in-one-arXiv2022]](https://arxiv.org/abs/2203.07303)  |        Shared TF       |        ViT        |       BT      |   37.9  |   68.1  |   77.1   |
-|     [[VindLU-CVPR2023]](https://arxiv.org/abs/2212.05051)    |        Shared TF       |        ViT        |       BT      |   48.8  |   72.4  |   82.2   |
+|     [[VindLU-CVPR2023]](https://arxiv.org/abs/2212.05051)    |        Stacked TF       |        ViT        |       BT      |   48.8  |   72.4  |   82.2   |
 |      [[HERO-EMNLP2020]](https://arxiv.org/abs/2005.00200)     |        Stacked TF        |    RN+SlowFast    |       BT      |   16.8  |   43.4  |   57.7   |
 |     [[MV-GPT-arXiv2022]](https://arxiv.org/abs/2201.08264)    |        Stacked TF        |       ViViT       |       BT      |   37.3  |   65.5  |   75.1   |
 |    [[CLIP-ViP-ICLR2023]](https://arxiv.org/abs/2209.06430)   |         Dual TF        |        ViT        |   CLIP-text   |   49.6  |   74.5  |   84.8   |
@@ -72,8 +72,8 @@ This repository comprises leaderboards, dataset and paper lists of Video-Languag
 | [[ST-VQA-IJCV2019]](https://link-springer-com.libproxy1.nus.edu.sg/article/10.1007/s11263-019-01189-x)      |      Pre-TF      |    RN+C3D    | GloVe-LSTM |    35.5    |   34.7   |
 | [[PGAT-ACMMM2021]](https://dl.acm.org/doi/10.1145/3474085.3475193)        |      Pre-TF      |  Faster-RCNN | GloVe-LSTM |    38.1    |   39.0   |
 | [[HCRN-CVPR2020]](https://arxiv.org/abs/2002.10698)        |      Pre-TF      |      RN      | GloVe-LSTM |    38.6    |   41.2   |
-| [[All-in-one-arXiv2022]](https://arxiv.org/abs/2203.07303)  |     Stacked TF    |      ViT     |     BT     |    44.3    |   47.9   |
-| [[LAVENDER-arXiv2022]](https://arxiv.org/abs/2206.07160)    |     Shared TF    |     VS-TF    |     BT     |    45.0    |   56.6   |
+| [[All-in-one-arXiv2022]](https://arxiv.org/abs/2203.07303)  |     Shared TF    |      ViT     |     BT     |    44.3    |   47.9   |
+| [[LAVENDER-arXiv2022]](https://arxiv.org/abs/2206.07160)    |     Stacked TF    |     VS-TF    |     BT     |    45.0    |   56.6   |
 | [[VIOLET-CVPR2023]](https://arxiv.org/abs/2209.01540)      |     Stacked TF    |     VS-TF    |     BT     |    44.5    |   54.7   |
 | [[ClipBERT-CVPR2021]](https://arxiv.org/abs/2102.06183)    |     Stacked TF    |   CLIP-text  |     BT     |    37.4    |     /    |
 | [[VGT-ECCV2022]](https://arxiv.org/abs/2207.05342)         |      Dual TF     |  Faster-RCNN |     BT     |    39.7    |     /    |
