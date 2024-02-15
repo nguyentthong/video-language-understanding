@@ -70,12 +70,12 @@ This repository comprises leaderboards, dataset and paper lists of Video-Languag
 | [[HME-CVPR2019]](https://arxiv.org/abs/1904.04357)         |      Pre-TF      | RN/VGG + C3D |  GloVe-GRU |    34.6    |   36.1   |
 | [[HGA-AAAI2020]](https://ojs.aaai.org/index.php/AAAI/article/view/6767)         |      Pre-TF      | RN/VGG + C3D |  GloVe-GRU |    33.0    |   33.7   |
 | [[ST-VQA-IJCV2019]](https://link-springer-com.libproxy1.nus.edu.sg/article/10.1007/s11263-019-01189-x)      |      Pre-TF      |    RN+C3D    | GloVe-LSTM |    35.5    |   34.7   |
-| [[PGAT-ACMMM2021]](https://dl.acm.org/doi/10.1145/3474085.3475193)        |      Pre-TF      |  Faster-RCNN | GloVe-LSTM |    30.9    |   31.3   |
-| [[HCRN-CVPR2020]](https://arxiv.org/abs/2002.10698)        |      Pre-TF      |      RN      | GloVe-LSTM |    38.1    |   39.0   |
+| [[PGAT-ACMMM2021]](https://dl.acm.org/doi/10.1145/3474085.3475193)        |      Pre-TF      |  Faster-RCNN | GloVe-LSTM |    38.1    |   39.0   |
+| [[HCRN-CVPR2020]](https://arxiv.org/abs/2002.10698)        |      Pre-TF      |      RN      | GloVe-LSTM |    38.6    |   41.2   |
+| [[All-in-one-arXiv2022]](https://arxiv.org/abs/2203.07303)  |     Stacked TF    |      ViT     |     BT     |    44.3    |   47.9   |
 | [[LAVENDER-arXiv2022]](https://arxiv.org/abs/2206.07160)    |     Shared TF    |     VS-TF    |     BT     |    45.0    |   56.6   |
-| [[All-in-one-arXiv2022]](https://arxiv.org/abs/2203.07303)  |     Shared TF    |      ViT     |     BT     |    44.3    |   47.9   |
-| [[VIOLET-CVPR2023]](https://arxiv.org/abs/2209.01540)      |     Shared TF    |     VS-TF    |     BT     |    44.5    |   54.7   |
-| [[ClipBERT-CVPR2021]](https://arxiv.org/abs/2102.06183)    |     Shared TF    |   CLIP-text  |     BT     |    37.4    |     /    |
+| [[VIOLET-CVPR2023]](https://arxiv.org/abs/2209.01540)      |     Stacked TF    |     VS-TF    |     BT     |    44.5    |   54.7   |
+| [[ClipBERT-CVPR2021]](https://arxiv.org/abs/2102.06183)    |     Stacked TF    |   CLIP-text  |     BT     |    37.4    |     /    |
 | [[VGT-ECCV2022]](https://arxiv.org/abs/2207.05342)         |      Dual TF     |  Faster-RCNN |     BT     |    39.7    |     /    |
 | [[CoVGT-TPAMI2023]](https://arxiv.org/abs/2302.13668)       |      Dual TF     |  Faster-RCNN |     BT     |    35.6    |   36.1   |
 | [[Video-ChatGPT-arXiv2023]](https://arxiv.org/abs/2306.05424)   |   LLM-Augmented  |     ViT    |   Vicuna   |    49.3    |   64.9   |
