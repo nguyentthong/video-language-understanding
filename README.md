@@ -59,7 +59,7 @@ This repository comprises leaderboards, dataset and paper lists of Video-Languag
 | [[UniVL-arXiv2020]](https://arxiv.org/abs/2002.06353)       |     Stacked TF     |      S3D      |    41.8    |    28.9    |
 | [[MV-GPT-arXiv2022]](https://arxiv.org/abs/2201.08264)      |     Stacked TF     |     ViViT     |    48.9    |    38.7    |
 | [[CLIP-DCD-PRCV2022]](https://arxiv.org/abs/2111.15162)    |     Stacked TF     |      ViT      |    48.2    |    30.9    |
-| [[DeCEMBERT-NAACL2021]](https://aclanthology.org/2021.naacl-main.193/)   |     Stack TF     |       RN      |    45.2    |    29.7    |
+| [[DeCEMBERT-NAACL2021]](https://aclanthology.org/2021.naacl-main.193/)   |     Stacked TF     |       RN      |    45.2    |    29.7    |
 | [[mPLUG-2-ICML2023]](https://arxiv.org/abs/2302.00402)     |     Stacked TF     |      ViT      |    57.8    |    34.9    |
 
 #### Video question answering
