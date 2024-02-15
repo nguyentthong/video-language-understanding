@@ -40,8 +40,8 @@ This repository comprises leaderboards, dataset and paper lists of Video-Languag
 |     [[CT-SAN-CVPR2017]](https://arxiv.org/abs/1610.02947)    |         Pre-TF         |         RN        | word2vec-LSTM |   4.4   |   16.6  |   22.3   |
 |   [[All-in-one-arXiv2022]](https://arxiv.org/abs/2203.07303)  |        Shared TF       |        ViT        |       BT      |   37.9  |   68.1  |   77.1   |
 |     [[VindLU-CVPR2023]](https://arxiv.org/abs/2212.05051)    |        Shared TF       |        ViT        |       BT      |   48.8  |   72.4  |   82.2   |
-|      [[HERO-EMNLP2020]](https://arxiv.org/abs/2005.00200)     |        Stack TF        |    RN+SlowFast    |       BT      |   16.8  |   43.4  |   57.7   |
-|     [[MV-GPT-arXiv2022]](https://arxiv.org/abs/2201.08264)    |        Stack TF        |       ViViT       |       BT      |   37.3  |   65.5  |   75.1   |
+|      [[HERO-EMNLP2020]](https://arxiv.org/abs/2005.00200)     |        Stacked TF        |    RN+SlowFast    |       BT      |   16.8  |   43.4  |   57.7   |
+|     [[MV-GPT-arXiv2022]](https://arxiv.org/abs/2201.08264)    |        Stacked TF        |       ViViT       |       BT      |   37.3  |   65.5  |   75.1   |
 |    [[CLIP-ViP-ICLR2023]](https://arxiv.org/abs/2209.06430)   |         Dual TF        |        ViT        |   CLIP-text   |   49.6  |   74.5  |   84.8   |
 |   [[CLIP4Clip-arXiv2021]](https://arxiv.org/abs/2104.08860)   |         Dual TF        |        ViT        |   CLIP-text   |   44.5  |   71.4  |   81.6   |
 
@@ -55,12 +55,12 @@ This repository comprises leaderboards, dataset and paper lists of Video-Languag
 | [[CAT-TM-arXiv2016]](https://arxiv.org/abs/1612.00234)      |      Pre-TF      | Video: RN+C3D |    36.6    |    25.6    |
 | [[NFS-TM-arXiv2016]](https://arxiv.org/abs/1612.00234)      |      Pre-TF      | Video: RN+C3D |    37.0    |    25.9    |
 | [[Fuse-TM-arXiv2016]](https://arxiv.org/abs/1612.00234)     |      Pre-TF      | Video: RN+C3D |    37.5    |    25.9    |
-| [[VLAB-arXiv2023]](https://arxiv.org/abs/2305.13167)        |     Stack TF     |     EVA-G     |    54.6    |    33.4    |
-| [[UniVL-arXiv2020]](https://arxiv.org/abs/2002.06353)       |     Stack TF     |      S3D      |    41.8    |    28.9    |
-| [[MV-GPT-arXiv2022]](https://arxiv.org/abs/2201.08264)      |     Stack TF     |     ViViT     |    48.9    |    38.7    |
-| [[CLIP-DCD-PRCV2022]](https://arxiv.org/abs/2111.15162)    |     Stack TF     |      ViT      |    48.2    |    30.9    |
+| [[VLAB-arXiv2023]](https://arxiv.org/abs/2305.13167)        |     Stacked TF     |     EVA-G     |    54.6    |    33.4    |
+| [[UniVL-arXiv2020]](https://arxiv.org/abs/2002.06353)       |     Stacked TF     |      S3D      |    41.8    |    28.9    |
+| [[MV-GPT-arXiv2022]](https://arxiv.org/abs/2201.08264)      |     Stacked TF     |     ViViT     |    48.9    |    38.7    |
+| [[CLIP-DCD-PRCV2022]](https://arxiv.org/abs/2111.15162)    |     Stacked TF     |      ViT      |    48.2    |    30.9    |
 | [[DeCEMBERT-NAACL2021]](https://aclanthology.org/2021.naacl-main.193/)   |     Stack TF     |       RN      |    45.2    |    29.7    |
-| [[mPLUG-2-ICML2023]](https://arxiv.org/abs/2302.00402)     |     Stack TF     |      ViT      |    57.8    |    34.9    |
+| [[mPLUG-2-ICML2023]](https://arxiv.org/abs/2302.00402)     |     Stacked TF     |      ViT      |    57.8    |    34.9    |
 
 #### Video question answering
 
