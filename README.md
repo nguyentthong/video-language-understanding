@@ -32,12 +32,12 @@ This repository comprises leaderboards, dataset and paper lists of Video-Languag
 
 |  **Methods**  | **Model architecture** |     **Video**     |    **Text**   | **R@1** | **R@5** | **R@10** |
 |:-------------:|:----------------------:|:-----------------:|:-------------:|:-------:|:-------:|:--------:|
-|    [[JSFusion-ECCV2018]](https://arxiv.org/abs/1808.02559)   |         Pre-TF         |         RN        |   GloVe-LSTM  |   10.2  |   31.2  |   43.2   |
-| [[C+LSTM+SA-FC7-arXiv2016]](https://arxiv.org/abs/1609.08124) |         Pre-TF         |        VGG        |   GloVe-LSTM  |   4.2   |   12.9  |   19.9   |
 |    [[VSE-LSTM-Neurips2014]](https://arxiv.org/abs/1411.2539)   |         Pre-TF         | ConvNet/OxfordNet |   GloVe-LSTM  |   3.8   |   12.7  |   17.1   |
+| [[C+LSTM+SA-FC7-arXiv2016]](https://arxiv.org/abs/1609.08124) |         Pre-TF         |        VGG        |   GloVe-LSTM  |   4.2   |   12.9  |   19.9   |
 |    [[EITanque-arXiv2016]](https://arxiv.org/abs/1612.06950)   |         Pre-TF         |        VGG        | word2vec-LSTM |   4.7   |   16.6  |   24.1   |
-|  [[SA-G+SA-FC7]](https://arxiv.org/abs/1609.08124)  |         Pre-TF         |        VGG        |     GloVe     |   3.1   |   9.0   |   13.4   |
+|  [[SA-G+SA-FC7-arxiv2016]](https://arxiv.org/abs/1609.08124)  |         Pre-TF         |        VGG        |     GloVe     |   3.1   |   9.0   |   13.4   |
 |     [[CT-SAN-CVPR2017]](https://arxiv.org/abs/1610.02947)    |         Pre-TF         |         RN        | word2vec-LSTM |   4.4   |   16.6  |   22.3   |
+|    [[JSFusion-ECCV2018]](https://arxiv.org/abs/1808.02559)   |         Pre-TF         |         RN        |   GloVe-LSTM  |   10.2  |   31.2  |   43.2   |
 |   [[All-in-one-arXiv2022]](https://arxiv.org/abs/2203.07303)  |        Shared TF       |        Linear        |       BT      |   37.9  |   68.1  |   77.1   |
 |   [[VLM-ACL2021]](https://arxiv.org/abs/2105.09996)  |        Shared TF       |        S3D        |       BT      |   28.1  |   55.5  |   67.4   |
 |   [[DeCEMBERT-NAACL2021]](https://aclanthology.org/2021.naacl-main.193/)  |        Shared TF       |        RN        |       BT      |   17.5  |   44.3  |   58.6   |
@@ -54,12 +54,15 @@ This repository comprises leaderboards, dataset and paper lists of Video-Languag
 
 | **Methods** | **Architecture** |   **Video**   | **BLEU-4** | **METEOR** | **CIDEr** |
 |:-----------:|:----------------:|:-------------:|:----------:|:----------:|:----------:|
-| [[MFATT-arXiv2016]](https://arxiv.org/abs/1612.00234)       |      Pre-TF      | Video: RN+C3D |    39.1    |    26.7    | / |
 | [[TA-ICCV2015]](https://arxiv.org/abs/1502.08029)          |      Pre-TF      | Video: 3D-CNN |    36.5    |    25.7    | / |
 | [[h-RNN-CVPR2016]](https://arxiv.org/abs/1510.07712)       |      Pre-TF      |   Video: VGG  |    36.8    |    25.9    | / |
+| [[MFATT-arXiv2016]](https://arxiv.org/abs/1612.00234)       |      Pre-TF      | Video: RN+C3D |    39.1    |    26.7    | / |
 | [[CAT-TM-arXiv2016]](https://arxiv.org/abs/1612.00234)      |      Pre-TF      | Video: RN+C3D |    36.6    |    25.6    | / |
 | [[NFS-TM-arXiv2016]](https://arxiv.org/abs/1612.00234)      |      Pre-TF      | Video: RN+C3D |    37.0    |    25.9    | / |
 | [[Fuse-TM-arXiv2016]](https://arxiv.org/abs/1612.00234)     |      Pre-TF      | Video: RN+C3D |    37.5    |    25.9    | / |
+| [[MARN-CVPR2019]](https://arxiv.org/abs/1905.03966)     |      Pre-TF      | Video: RN |    /    |    /    | 46.8 |
+| [[Res-ATT-WWW2019]](https://link.springer.com/article/10.1007%2Fs11280-018-0531-z)     |      Pre-TF      | Video: RN |    37.0    |    26.9    | 40.7 |
+| [[DenseLSTM-ACMM2019]](https://dl.acm.org/doi/abs/10.1145/3343031.3350932)     |      Pre-TF      | Video: VGG |    38.1    |    27.2    | 42.8 |
 | [[VIOLET-CVPR2023]](https://arxiv.org/abs/2209.01540)        |     Stacked TF     |     VS-TF     |    /   |    /  | 58.0 |
 | [[LAVENDER-arXiv2023]](https://arxiv.org/abs/2305.13167)        |     Stacked TF     |     VS-TF     |     /   |    /  | 57.4 |
 | [[VLAB-arXiv2023]](https://arxiv.org/abs/2305.13167)        |     Stacked TF     |     EVA-G     |    54.6    |    33.4    | 74.9 |
@@ -73,6 +76,7 @@ This repository comprises leaderboards, dataset and paper lists of Video-Languag
 
 | **Methods** | **Architecture** |   **Video**  |  **Text**  | **MSRVTT** | **MSVD** |
 |:-----------:|:----------------:|:------------:|:----------:|:----------:|:--------:|
+| [[E-MN-ACMM2017]](https://dl.acm.org/doi/abs/10.1145/3123266.3123427)       |      Pre-TF      |   VGG + C3D   | GloVe-LSTM |    30.4    |     26.7    |
 | [[QueST-AAAI2020]](https://ojs.aaai.org/index.php/AAAI/article/view/6766)       |      Pre-TF      |   RN + C3D   | GloVe-LSTM |    40.0    |     /    |
 | [[HME-CVPR2019]](https://arxiv.org/abs/1904.04357)         |      Pre-TF      | RN/VGG + C3D |  GloVe-GRU |    34.6    |   36.1   |
 | [[HGA-AAAI2020]](https://ojs.aaai.org/index.php/AAAI/article/view/6767)         |      Pre-TF      | RN/VGG + C3D |  GloVe-GRU |    33.0    |   33.7   |
