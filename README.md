@@ -2,6 +2,16 @@
 
 This repository comprises leaderboards, dataset and paper lists of Video-Language Understanding. This provides supplementary information for our survey paper [Video-Language Understanding: A Survey from Model Architecture, Model Training, and Data Perspectives](https://arxiv.org/abs/2406.05615) published at ACL 2024 (Findings). If you found any error, please don't hesitate to open an issue or pull request.
 
+If you are interested in our survey, please cite as
+```
+@article{nguyen2024video,
+  title={Video-Language Understanding: A Survey from Model Architecture, Model Training, and Data Perspectives},
+  author={Nguyen, Thong and Bin, Yi and Xiao, Junbin and Qu, Leigang and Li, Yicong and Wu, Jay Zhangjie and Nguyen, Cong-Duy and Ng, See-Kiong and Tuan, Luu Anh},
+  journal={arXiv preprint arXiv:2406.05615},
+  year={2024}
+}
+```
+
 ## Resources
 
 - [Leaderboards](#leaderboards)
