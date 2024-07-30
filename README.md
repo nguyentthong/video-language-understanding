@@ -1,6 +1,6 @@
 # Video-Language Understanding: A Survey from Model Architecture, Model Training, and Data Perspectives
 
-This repository comprises leaderboards, dataset and paper lists of Video-Language Understanding. If you found any error, please don't hesitate to open an issue or pull request.
+This repository comprises leaderboards, dataset and paper lists of Video-Language Understanding. This provides supplementary information for our survey paper [Video-Language Understanding: A Survey from Model Architecture, Model Training, and Data Perspectives](https://arxiv.org/abs/2406.05615) published at ACL 2024 (Findings). If you found any error, please don't hesitate to open an issue or pull request.
 
 ## Resources
 
