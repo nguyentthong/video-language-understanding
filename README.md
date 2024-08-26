@@ -278,10 +278,11 @@ If you are interested in our survey, please cite as
 11. Moments in Time Dataset: one million videos for event understanding `CVPR 2019` [[Paper]](https://arxiv.org/abs/1801.03150) [[Code]](https://github.com/zhoubolei/moments_models/tree/v2)
 
 ##### Automatic generation
-1. Progressive Graph Attention Network for Video Question Answering `ACMMM 2021` [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475193) [[Code]](https://github.com/PengLiang-cn/PGAT)
-2. The StreetLearn Environment and Dataset `arXiv 2019` [[Paper]](https://arxiv.org/abs/1903.01292) [[Code]](https://github.com/deepmind/streetlearn)
-3. VidChapters-7M: Video Chapters at Scale `NeurIPS 2023` [[Paper]](https://arxiv.org/abs/2309.13952) [[Code]](https://github.com/antoyang/VidChapters)
-4. Learning Audio-Video Modalities from Image Captions `arXiv 2022` [[Paper]](https://arxiv.org/abs/2204.00679)
-5. InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation `arXiv 2022` [[Paper]](https://arxiv.org/abs/2307.06942) [[Code]](https://github.com/opengvlab/internvideo)
-6. How2: A Large-scale Dataset for Multimodal Language Understanding `NeurIPS 2018` [[Paper]](https://arxiv.org/abs/1811.00347) [[Code]](https://github.com/srvk/how2-dataset)
-7. Learning Video Representations from Textual Web Supervision `arXiv 2020` [[Paper]](https://arxiv.org/abs/2007.14937)
+1. Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning `ECCV 2024` [[Paper]](https://arxiv.org/abs/2407.03788) [[Code]](https://github.com/nguyentthong/meta_optimized_angular_margin_contrastive_lvlm)
+2. Progressive Graph Attention Network for Video Question Answering `ACMMM 2021` [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475193) [[Code]](https://github.com/PengLiang-cn/PGAT)
+3. The StreetLearn Environment and Dataset `arXiv 2019` [[Paper]](https://arxiv.org/abs/1903.01292) [[Code]](https://github.com/deepmind/streetlearn)
+4. VidChapters-7M: Video Chapters at Scale `NeurIPS 2023` [[Paper]](https://arxiv.org/abs/2309.13952) [[Code]](https://github.com/antoyang/VidChapters)
+5. Learning Audio-Video Modalities from Image Captions `arXiv 2022` [[Paper]](https://arxiv.org/abs/2204.00679)
+6. InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation `arXiv 2022` [[Paper]](https://arxiv.org/abs/2307.06942) [[Code]](https://github.com/opengvlab/internvideo)
+7. How2: A Large-scale Dataset for Multimodal Language Understanding `NeurIPS 2018` [[Paper]](https://arxiv.org/abs/1811.00347) [[Code]](https://github.com/srvk/how2-dataset)
+8. Learning Video Representations from Textual Web Supervision `arXiv 2020` [[Paper]](https://arxiv.org/abs/2007.14937)
