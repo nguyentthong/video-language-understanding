@@ -240,6 +240,7 @@ If you are interested in our survey, please cite as
 8. Prompting Visual-Language Models for Efficient Video Understanding `ECCV 2022` [[Paper]](https://arxiv.org/abs/2112.04478) [[Code]](https://github.com/ju-chen/Efficient-Prompt)
 9. Multi-modal Circulant Fusion for Video-to-Language and Backward `IJCAI 2018` [[Paper]](https://dl.acm.org/doi/10.5555/3304415.3304561) 
 10. Long-term temporal convolutions for action recognition `arXiv 2016` [[Paper]](https://arxiv.org/abs/1604.04494) [[Code]](https://github.com/gulvarol/ltc)
+11. READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling `AAAI 2024` [[Paper]](https://arxiv.org/abs/2312.06950) [[Code]](https://github.com/nguyentthong/READ_PVLA)
 
 #### Data perspective
 ##### Manual collection
