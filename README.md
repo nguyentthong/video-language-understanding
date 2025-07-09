@@ -217,7 +217,7 @@ If you are interested in our survey, please cite as
 3. VideoLLM: Modeling video sequence with large language models `arXiv 2023` [[Paper]](https://arxiv.org/abs/2305.13292) [[Code]](https://github.com/cg1177/videollm)
 4. LlaMA-VID: An image is worth 2 tokens in large language models `arXiv 2023` [[Paper]](https://arxiv.org/abs/2311.17043) [[Code]](https://github.com/dvlab-research/llama-vid)
 5. Retrieving-to-Answer: Zero-Shot Video Question Answering with Frozen Large Language Models `arXiv 2023` [[Paper]](https://arxiv.org/abs/2306.11732)
-6. Video-Language Understanding: A Survey from Model Architecture, Model Training, and Data Perspectives `arXiv 2025` [[Paper]](https://arxiv.org/abs/2406.05615)
+6. Temporal-Oriented Recipe for Transferring Large Vision-Language Model to Video Understanding `arXiv 2025` [[Paper]](https://arxiv.org/abs/2505.12605)
 
 #### Model training perspective
 ##### Pre-training
@@ -241,7 +241,7 @@ If you are interested in our survey, please cite as
 8. Prompting Visual-Language Models for Efficient Video Understanding `ECCV 2022` [[Paper]](https://arxiv.org/abs/2112.04478) [[Code]](https://github.com/ju-chen/Efficient-Prompt)
 9. Multi-modal Circulant Fusion for Video-to-Language and Backward `IJCAI 2018` [[Paper]](https://dl.acm.org/doi/10.5555/3304415.3304561) 
 10. Long-term temporal convolutions for action recognition `arXiv 2016` [[Paper]](https://arxiv.org/abs/1604.04494) [[Code]](https://github.com/gulvarol/ltc)
-11. READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling `AAAI 2024` [[Paper]](https://arxiv.org/abs/2312.06950) [[Code]](https://github.com/nguyentthong/READ_PVLA)
+11. READ: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling `AAAI 2024` [[Paper]](https://arxiv.org/abs/2312.06950) [[Code]](https://github.com/nguyentthong/READ)
 
 #### Data perspective
 ##### Manual collection
@@ -280,7 +280,7 @@ If you are interested in our survey, please cite as
 11. Moments in Time Dataset: one million videos for event understanding `CVPR 2019` [[Paper]](https://arxiv.org/abs/1801.03150) [[Code]](https://github.com/zhoubolei/moments_models/tree/v2)
 
 ##### Automatic generation
-1. Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning `ECCV 2024` [[Paper]](https://arxiv.org/abs/2407.03788) [[Code]](https://github.com/nguyentthong/meta_optimized_angular_margin_contrastive_lvlm)
+1. MAMA: Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning `ECCV 2024` [[Paper]](https://arxiv.org/abs/2407.03788) [[Code]](https://github.com/nguyentthong/MAMA)
 2. Progressive Graph Attention Network for Video Question Answering `ACMMM 2021` [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475193) [[Code]](https://github.com/PengLiang-cn/PGAT)
 3. The StreetLearn Environment and Dataset `arXiv 2019` [[Paper]](https://arxiv.org/abs/1903.01292) [[Code]](https://github.com/deepmind/streetlearn)
 4. VidChapters-7M: Video Chapters at Scale `NeurIPS 2023` [[Paper]](https://arxiv.org/abs/2309.13952) [[Code]](https://github.com/antoyang/VidChapters)
