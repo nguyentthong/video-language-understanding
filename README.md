@@ -217,6 +217,7 @@ If you are interested in our survey, please cite as
 3. VideoLLM: Modeling video sequence with large language models `arXiv 2023` [[Paper]](https://arxiv.org/abs/2305.13292) [[Code]](https://github.com/cg1177/videollm)
 4. LlaMA-VID: An image is worth 2 tokens in large language models `arXiv 2023` [[Paper]](https://arxiv.org/abs/2311.17043) [[Code]](https://github.com/dvlab-research/llama-vid)
 5. Retrieving-to-Answer: Zero-Shot Video Question Answering with Frozen Large Language Models `arXiv 2023` [[Paper]](https://arxiv.org/abs/2306.11732)
+6. Video-Language Understanding: A Survey from Model Architecture, Model Training, and Data Perspectives `arXiv 2025` [[Paper]](https://arxiv.org/abs/2406.05615)
 
 #### Model training perspective
 ##### Pre-training
