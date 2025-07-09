@@ -111,6 +111,8 @@ If you are interested in our survey, please cite as
 |:------------------:|:--------------------------:|:----------------:|:--------------:|:----------------:|:-------------------:|
 | `MSVD`               | [[Paper]](https://aclanthology.org/P11-1020/), [[Dataset]](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/) |     YouTube videos     |     Manual     | TVR, VC, VideoQA |         1.9K        |
 | `MSRVTT`             | [[Paper]](https://ieeexplore.ieee.org/document/7780940), [[Dataset]](https://github.com/WingsBrokenAngel/MSR-VTT-DataCleaning) |     Web videos     |     Manual     | TVR, VC, VideoQA |         7.2K        |
+| `Ego-QA`               | [[Paper]](https://aclanthology.org/2024.emnlp-main.400/), [[Dataset]](https://huggingface.co/datasets/thongnguyen5999/egoqa) |     Egocentric videos     |     Manual     | VideoQA |         18.5K        |
+| `MAD-QA`               | [[Paper]](https://aclanthology.org/2024.emnlp-main.400/), [[Dataset]](https://huggingface.co/datasets/thongnguyen5999/madqa) |     Movie videos     |     Manual     | VideoQA |         19K        |
 | `ActivityNet`        | [[Paper]](https://ieeexplore.ieee.org/document/7298698), [[Dataset]](http://activity-net.org/) |     YouTube videos     |     Manual     | AL, TVR, VC, VMR |         5.8K        |
 | `FIBER`              | [[Paper]](https://arxiv.org/abs/2104.04182), [[Dataset]](https://github.com/MichiganNLP/video-fill-in-the-blank) |     [[VaTeX]](https://arxiv.org/abs/1904.03493)     |     Manual     |    VC, VideoQA   |         28K         |
 | `WildQA`             | [[Paper]](https://arxiv.org/abs/2209.06650), [[Dataset]](https://github.com/MichiganNLP/In-the-wild-QA) |     YouTube videos     |     Manual     |      VideoQA     |         0.4K        |
